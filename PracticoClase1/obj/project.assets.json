@@ -2411,11 +2411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\PracticoClase1\\PracticoClase1.csproj",
+      "projectUniqueName": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\PracticoClase1\\PracticoClase1.csproj",
       "projectName": "PracticoClase1",
-      "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\PracticoClase1\\PracticoClase1.csproj",
+      "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\PracticoClase1\\PracticoClase1.csproj",
       "packagesPath": "C:\\Users\\MatiasBDV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\PracticoClase1\\obj\\",
+      "outputPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\PracticoClase1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MatiasBDV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2433,14 +2433,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\Shared\\Shared.csproj"
+            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\Shared\\Shared.csproj"
             }
           }
         }

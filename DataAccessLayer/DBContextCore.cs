@@ -3,8 +3,7 @@ using DataAccessLayer.EFModels;
 
 namespace DataAccessLayer {
     public class DBContextCore : DbContext{
-        private readonly string _connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=practico1;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
-
+        private string _connectionString = "Server=sqlserver,1433;Database=Practico1;User Id=sa;Password=Abc*123!;Encrypt=False;";
         public DBContextCore() { }
 
         public DBContextCore(DbContextOptions<DBContextCore> options) : base(options) { }

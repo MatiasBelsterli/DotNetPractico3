@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\Shared\\Shared.csproj",
+      "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\MatiasBDV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MatiasBDV\\AppData\\Roaming\\NuGet\\NuGet.Config",

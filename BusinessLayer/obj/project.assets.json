@@ -2391,11 +2391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\MatiasBDV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MatiasBDV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2413,11 +2413,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\Shared\\Shared.csproj"
+            "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\Shared\\Shared.csproj"
             }
           }
         }

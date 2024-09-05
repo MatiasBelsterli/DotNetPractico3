@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NxyqtSG03io=",
+  "dgSpecHash": "bPs6lrSJDRQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\practico1Cris\\PracticoClase1\\PracticoClase1.csproj",
+  "projectFilePath": "C:\\Users\\MatiasBDV\\Documents\\GitHub\\DotNetPractico3\\PracticoClase1\\PracticoClase1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MatiasBDV\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MatiasBDV\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
